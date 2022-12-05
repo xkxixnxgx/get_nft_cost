@@ -12,9 +12,10 @@ python = "3.8.5"
 fastapi = "0.85.0"
 pandas = "1.5.0"
 numpy = "1.23.3"
-matplotlib = "3.6.1"
-seaborn = "0.12.0"
-requests = "^2.28.1"
+matplotlib = "3.5"
+seaborn = "0.12.1"
+requests = "2.28.1"
+python-dotenv = "0.21.0"
 
 
 [tool.poetry.group.dev.dependencies]
